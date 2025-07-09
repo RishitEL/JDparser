@@ -72,30 +72,10 @@ def main():
     # Example usage
     parser = JDParser()
     
-    # Example JD text
-    sample_jd = """
-    Job Role: IOS Engineer
-    Job Locations: Remote
-    Required Experience: 3 - 6 Years
-    Skills: iOS, React Native
-    \
-    Share
-    What will they do?
-    Rapidly design, prototype, and build innovative features using iOS technologies with a focus on AR, 3D, and camera-first experiences.
-    Leverage native iOS frameworks like ARKit, RealityKit, SceneKit, and Metal to create engaging and realistic immersive interactions.
-    Build high-quality, reusable, and performant UI components using both SwiftUI and UIKit.
-    Ensure optimal performance and responsiveness across the entire range of supported Apple devices.
-    Collaborate in an agile, cross-functional team of product managers, designers, and other engineers to deliver features at a fast pace.
-    Take full ownership of your work, from initial concept and technical design to testing, release, and maintenance.
-    Essential Skills
-    Deep expertise in  React Native, Swift and a strong understanding of the iOS SDK.
-    Proven experience with modern iOS architecture patterns (e.g., MVVM) and frameworks (SwiftUI, UIKit).
-    Hands-on experience or a strong passion for learning Apple's AR/3D frameworks (ARKit, RealityKit, SceneKit).
-    A strong understanding of concurrency (GCD, Swift Concurrency) and memory management in iOS.
-    Excellent debugging skills and proficiency with iOS performance and debugging tools like Instruments.
-    A keen eye for detail and a passion for crafting fluid animations and exceptional user experiences.
-    Ability to quickly learn new technologies and apply them to build functional and robust prototypes.
-    """
+    
+    # Read JD from file pass_jd.txt
+    with open('pass_jd.txt', 'r') as file:
+        sample_jd = file.read()
     
     result = parser.parse_jd(sample_jd)
     if result:

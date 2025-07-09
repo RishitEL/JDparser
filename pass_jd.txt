@@ -1,0 +1,50 @@
+Need Full Stack Developer on Contract -Need Immediate
+Joiner -For Trivandrum
+ 
+JD for Full Stack
+ 
+Front End 70% & Backend 30%
+ 
+Primary Skills :
+ 
+ 
+Angular 2+ version - 90%
+HTML and CSS - 80%
+Typescript - 80%
+Javascript - 80%
+Bootstrap - 80%
+RXJS - 70%
+NGRX - 60%
+Secondary Skills:
+ 
+ 
+Java - 30%
+Spring Boot - 30%
+Microservices - 30%
+GCP - 20%
+Experience Required :
+ 
+ 
+·        6 + years of hands-on working experience in Angular.JS ( 14+) , Java, Spring boot, Microservices, Cloud(AWS,GCP)
+ 
+·        6+ years of experience in Front End Technology
+ 
+·        6+ years experience writing, debugging, and troubleshooting code in mainstream Java, SpringBoot, Angular, TypeScript/JavaScript, HTML, CSS, NGRX , RXJS
+ 
+·        UI development (e.g. HTML, JavaScript, Angular and Bootstrap)
+ 
+·        Experience required in Unit Testing ( Jasmine / Karma)
+ 
+·        6+ years experience with Cloud technology: GCP, AWS, or Azure
+ 
+·        6+ years experience designing and developing cloud-native solutions
+ 
+·        6+ years experience deploying and releasing software using Jenkins CI/CD pipelines, understand infrastructure-as-code concepts, Helm Charts, and Terraform constructs
+ 
+·        Relational databases (e.g. SQL Server, MySQL)
+ 
+·        Automated Testing: JUnit, Selenium, LoadRunner, SoapUI
+ 
+·        Agile environments (e.g. Scrum, XP)
+ 
+·        Atlassian tooling (e.g. JIRA, Confluence, and Github)
