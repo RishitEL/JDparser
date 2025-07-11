@@ -1,0 +1,180 @@
+{
+  "filename": "Rishit resume.pdf",
+  "parsed_data": {
+    "profile": {
+      "name": "Rishit Murarka",
+      "email": "murarkarishit0@gmail.com",
+      "phone": "7304706379",
+      "location": "",
+      "url": "",
+      "summary": "Software Developer and Machine Learning Engineer with experience in full-stack development, AI/ML model deployment, and SaaS product development. Proven track record in leading technical teams, building scalable APIs, and developing AI-powered solutions. Co-founded a successful lead generation platform serving digital service providers."
+    },
+    "educations": [
+      {
+        "school": "Indian Institute of Information Technology",
+        "degree": "Bachelor of Technology in Information Technology",
+        "gpa": "",
+        "date": "November 2022 - Present",
+        "descriptions": [
+          "Relevant Coursework: Data Structures and Algorithms, Databases, Operating Systems, Machine Learning, Web Development"
+        ]
+      }
+    ],
+    "workExperiences": [
+      {
+        "company": "The Leads Platform",
+        "jobTitle": "Co-Founder & Software Developer",
+        "date": "April 2025 - June 2025",
+        "descriptions": [
+          "Co-founded SaaS platform specializing in lead generation for digital service providers including web development, animation, video production, graphic design, and digital marketing agencies",
+          "Developed and deployed an automated bot system to identify and qualify fresh and warm leads for freelancers and agencies",
+          "Built core software product from conception to deployment, handling both frontend and backend development",
+          "Collaborated with co-founder to define product roadmap, technical architecture, and business strategy",
+          "Managed active client relationships and implemented feedback-driven product improvements",
+          "Developed scalable lead scoring algorithms and automated outreach systems"
+        ]
+      },
+      {
+        "company": "AlignTogether Solutions",
+        "jobTitle": "Machine Learning Engineer & Software Developer Intern",
+        "date": "October 2024 - April 2025",
+        "descriptions": [
+          "Developed and optimized ResNet50-based plant classification model achieving high accuracy through feature extraction and hyperparameter tuning",
+          "Annotated and preprocessed 1000+ images using Roboflow for robust model training and validation",
+          "Designed and implemented Flask-based RESTful APIs with JWT authentication middleware from scratch",
+          "Built WhatsApp chatbot integration using Meta API for automated customer interactions",
+          "Engineered voice cloning model enabling dynamic speech synthesis for personalized video content",
+          "Led cross-functional team in API integration, troubleshooting, and client requirement gathering",
+          "Implemented rigorous error handling and performance testing protocols for production-ready systems"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "project": "CodeAssist: AI-Powered Code Generation Tool",
+        "date": "March 2024 - April 2024",
+        "descriptions": [
+          "Designed AI system leveraging transformer architecture to convert natural language prompts into optimized code snippets",
+          "Integrated Large Language Model for dynamic code generation and optimization",
+          "Built automated testing framework with comprehensive test case generation",
+          "Technologies: LlamaIndex, LLM, Python, API Integration, Asynchronous Programming"
+        ],
+        "industry": "IT",
+        "domain": "AI Development"
+      },
+      {
+        "project": "LipNet: AI Lip Reading System",
+        "date": "May 2024 - June 2024",
+        "descriptions": [
+          "Developed deep learning lipreading system achieving 95.2% accuracy and 11.4% Word Error Rate on unseen speakers",
+          "Implemented CNN-RNN architecture with CTC loss for spatiotemporal sequence alignment",
+          "Applied data augmentation techniques for model robustness and built FastAPI web application with Google OAuth",
+          "Technologies: TensorFlow, CNNs, RNNs, CTC Loss, Computer Vision, FastAPI, MongoDB"
+        ],
+        "industry": "IT",
+        "domain": "Speech Recognition"
+      },
+      {
+        "project": "Gym Workout Optimizer",
+        "date": "May 2024 - June 2024",
+        "descriptions": [
+          "Created ML application optimizing gym routines using dataset of 1000+ exercises with 17 detailed features",
+          "Built recommendation system identifying under-targeted muscles and providing personalized workout suggestions",
+          "Achieved adoption by 300+ personal trainers through enhanced user experience and fitness outcomes",
+          "Technologies: BERT, NLP, Machine Learning, Python, Recommendation Systems, Data Analysis"
+        ],
+        "industry": "Healthcare",
+        "domain": "Fitness Technology"
+      },
+      {
+        "project": "Achievements",
+        "date": "",
+        "descriptions": [
+          "Smart India Hackathon 2024 Winner September 2024",
+          "Won national-level government-sponsored innovation competition addressing real-world challenges",
+          "Developed comprehensive AI-driven solution and web platform for Ministry of Indian Post Office",
+          "Created system to promote insurance and financial aid schemes, enhancing public outreach and engagement",
+          "Collaborated with team to deliver production-ready solution under tight deadline constraints"
+        ],
+        "industry": "IT",
+        "domain": "Government Solutions"
+      },
+      {
+        "project": "StepRush - E-commerce Startup Founder",
+        "date": "",
+        "descriptions": [
+          "Launched hybrid dropshipping and direct-selling e-commerce platform specializing in premium sneakers",
+          "Implemented secure payment systems and user-friendly website interface",
+          "Executed multi-channel digital marketing strategy targeting sneaker enthusiasts and collectors",
+          "Generated Rs. 25,000 in revenue during first year of operations",
+          "Link: Instagram: @steprushofficial"
+        ],
+        "industry": "E-commerce",
+        "domain": "Footwear Retail"
+      }
+    ],
+    "skills": {
+      "technical": [
+        "AI",
+        "API Integration",
+        "API integration",
+        "Asynchronous Programming",
+        "BERT",
+        "CNNs",
+        "CTC Loss",
+        "Computer Vision",
+        "Data Analysis",
+        "FastAPI",
+        "Flask",
+        "Instagram",
+        "JWT authentication",
+        "Large Language Model",
+        "Machine Learning",
+        "Meta API",
+        "MongoDB",
+        "NLP",
+        "Python",
+        "RESTful APIs",
+        "RNNs",
+        "Recommendation Systems",
+        "ResNet50",
+        "Roboflow",
+        "TensorFlow",
+        "Transformer architecture",
+        "WhatsApp chatbot integration",
+        "automated bot system",
+        "dynamic speech synthesis",
+        "feature extraction",
+        "hyperparameter tuning",
+        "image annotation",
+        "image preprocessing",
+        "lead scoring algorithms",
+        "performance testing.",
+        "secure payment systems",
+        "voice cloning model"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "other": [
+        "LlamaIndex",
+        "SaaS platform",
+        "Web Development",
+        "automated outreach systems",
+        "backend development",
+        "dropshipping",
+        "e-commerce platform",
+        "frontend development",
+        "lead generation",
+        "multi-channel digital marketing",
+        "software product development",
+        "technical architecture",
+        "troubleshooting",
+        "website interface"
+      ]
+    },
+    "custom": {
+      "descriptions": []
+    }
+  }
+}

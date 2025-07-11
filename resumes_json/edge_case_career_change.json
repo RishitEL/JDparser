@@ -1,0 +1,140 @@
+{
+  "filename": "edge_case_career_change.pdf",
+  "parsed_data": {
+    "profile": {
+      "name": "Vikram Switcher",
+      "email": "vikram.switcher@email.com",
+      "phone": "9876543215",
+      "location": "Trivandrum, Kerala",
+      "url": "https://github.com/vikramswitcher",
+      "summary": "Former Marketing Manager transitioning to Full Stack Development after completing intensive coding bootcamp. Gained hands-on experience in React, Node.js, and modern web technologies. Strong analytical and project management skills from 3 years in marketing."
+    },
+    "educations": [
+      {
+        "school": "FullStack Academy",
+        "degree": "Full Stack Web Development Bootcamp",
+        "gpa": "A Grade",
+        "date": "March 2024 - August 2024",
+        "descriptions": [
+          "Intensive 6-month program covering HTML, CSS, JavaScript, React, Node.js, Express.js",
+          "Built 5+ full-stack projects including e-commerce site and social media app",
+          "Learned Git version control, REST APIs, SQL, MongoDB, and deployment strategies",
+          "Graduated with distinction and Best Project Award for final capstone project"
+        ]
+      },
+      {
+        "school": "University of Kerala",
+        "degree": "Bachelor of Business Administration",
+        "gpa": "7.5/10",
+        "date": "June 2017 - May 2020",
+        "descriptions": [
+          "Major in Marketing with minor in Finance",
+          "Relevant skills: Project Management, Analytics, Problem Solving"
+        ]
+      }
+    ],
+    "workExperiences": [
+      {
+        "company": "BrandBoost Marketing",
+        "jobTitle": "Marketing Manager",
+        "date": "July 2020 - February 2024",
+        "descriptions": [
+          "Managed digital marketing campaigns for 15+ clients with budget of ₹2 crore annually",
+          "Analyzed campaign performance using Google Analytics and created detailed reports",
+          "Led cross-functional team of 5 designers and content creators",
+          "Increased client ROI by 40% through data-driven optimization strategies",
+          "Collaborated with technical teams to understand web analytics and tracking implementation"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "project": "TaskMaster Pro - Project Management App",
+        "date": "July 2024 - August 2024",
+        "descriptions": [
+          "Built full-stack project management application using React frontend and Node.js/Express backend",
+          "Implemented user authentication with JWT tokens and bcrypt password hashing",
+          "Created RESTful APIs for task management, team collaboration, and project tracking",
+          "Used MongoDB for data storage with proper schema design and indexing",
+          "Deployed application on Heroku with Git-based deployment pipeline",
+          "Added real-time notifications using Socket.io for team updates"
+        ],
+        "industry": "Productivity",
+        "domain": "Project Management"
+      },
+      {
+        "project": "E-Commerce Fashion Store",
+        "date": "May 2024 - June 2024",
+        "descriptions": [
+          "Developed complete e-commerce platform with React frontend and Express.js backend",
+          "Implemented shopping cart, payment integration, and order management system",
+          "Created responsive design using CSS3 and modern layout techniques",
+          "Built admin dashboard for inventory management and sales analytics",
+          "Used SQL database (PostgreSQL) for product catalog and order processing",
+          "Integrated third-party payment gateway and shipping APIs"
+        ],
+        "industry": "E-commerce",
+        "domain": "Fashion Retail"
+      },
+      {
+        "project": "Weather Dashboard Application",
+        "date": "April 2024 - April 2024",
+        "descriptions": [
+          "Created weather tracking app using HTML5, CSS3, and vanilla JavaScript",
+          "Integrated third-party weather API for real-time data fetching",
+          "Implemented responsive design for mobile and desktop users",
+          "Added location-based services and favorite cities functionality",
+          "Used Git for version control and GitHub for code repository"
+        ],
+        "industry": "Utilities",
+        "domain": "Weather Services"
+      }
+    ],
+    "skills": {
+      "technical": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "SQL",
+        "PostgreSQL",
+        "Git",
+        "REST APIs",
+        "JWT",
+        "Socket.io",
+        "Responsive Design",
+        "CSS3",
+        "JSON",
+        "API Integration",
+        "Heroku",
+        "GitHub"
+      ],
+      "languages": [
+        "JavaScript",
+        "SQL",
+        "HTML",
+        "CSS"
+      ],
+      "other": [
+        "Project Management",
+        "Team Leadership",
+        "Data Analysis",
+        "Problem Solving",
+        "Client Communication",
+        "Agile Methodology",
+        "Digital Marketing",
+        "Google Analytics",
+        "Budget Management",
+        "Cross-functional Collaboration",
+        "Performance Optimization",
+        "Time Management"
+      ]
+    },
+    "custom": {
+      "descriptions": []
+    }
+  }
+} 

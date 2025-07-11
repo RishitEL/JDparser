@@ -1,0 +1,63 @@
+{
+  "filename": "SUHANI_JAIN (2) 1.pdf",
+  "parsed_data": {
+    "profile": {
+      "name": "Suhani Jain",
+      "email": "jainsuhani132@gmail.com",
+      "phone": "8529304978",
+      "location": "",
+      "url": "github.com/suhani132",
+      "summary": "Aspiring undergraduate student eager to apply academic knowledge and hands-on experience in web development technologies including HTML, CSS, JavaScript, Node.js, and React.js. Passionate about continuous learning, solving real-world problems, and collaborating effectively in dynamic team environments."
+    },
+    "educations": [
+      {
+        "school": "Jaipur Engineering College and Research Center",
+        "degree": "Bachelor of Technology in Computer Science",
+        "gpa": "3.4",
+        "date": "2022 \u2013 2026",
+        "descriptions": []
+      }
+    ],
+    "workExperiences": [],
+    "projects": [
+      {
+        "project": "HolidayInn | React, Node, Express, MongoDB, Tailwind",
+        "date": "",
+        "descriptions": [
+          "\u2217 Developed a full-stack web application for hotel booking",
+          "\u2217 Implemented JWT for secure authentication and Stripe for payment verification",
+          "\u2217 Enhanced user experience with pagination and sorting functionalities in search contexts",
+          "\u2217 Used Playwright for automation and testing",
+          "Chatsy.io | React, Node, Express, MongoDB, Tailwind, DaisyUI, Socket.io",
+          "\u2217 Developed a full-stack web application for real-time chat",
+          "\u2217 Used JWT for secure authentication",
+          "\u2217 Implemented real-time messaging with Socket.io",
+          "\u2217 Used Postman for automation and testing"
+        ],
+        "industry": "IT",
+        "domain": "Hospitality Technology"
+      }
+    ],
+    "skills": {
+      "technical": [
+        "Express",
+        "JWT",
+        "MongoDB",
+        "Node",
+        "Playwright",
+        "Postman",
+        "React",
+        "Socket.io",
+        "Tailwind"
+      ],
+      "languages": [],
+      "other": [
+        "DaisyUI",
+        "Stripe"
+      ]
+    },
+    "custom": {
+      "descriptions": []
+    }
+  }
+}

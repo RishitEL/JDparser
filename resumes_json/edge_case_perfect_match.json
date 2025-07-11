@@ -1,0 +1,108 @@
+{
+  "filename": "edge_case_perfect_match.pdf",
+  "parsed_data": {
+    "profile": {
+      "name": "Alex Perfect",
+      "email": "alex.perfect@email.com",
+      "phone": "9876543210",
+      "location": "Trivandrum, Kerala",
+      "url": "https://github.com/alexperfect",
+      "summary": "Fresh Computer Science graduate with 1 year of hands-on experience in full-stack web development using React, Node.js, and modern web technologies. Passionate about creating responsive user interfaces and scalable backend systems."
+    },
+    "educations": [
+      {
+        "school": "University of Kerala",
+        "degree": "Bachelor of Technology in Computer Science",
+        "gpa": "8.5/10",
+        "date": "June 2020 - May 2024",
+        "descriptions": [
+          "Relevant Coursework: Web Development, Database Management Systems, Software Engineering, Data Structures and Algorithms"
+        ]
+      }
+    ],
+    "workExperiences": [
+      {
+        "company": "TechStart Solutions",
+        "jobTitle": "Junior Full Stack Developer",
+        "date": "June 2024 - Present",
+        "descriptions": [
+          "Developed responsive web applications using React.js for frontend and Node.js with Express.js for backend",
+          "Implemented RESTful APIs for data communication between frontend and backend services",
+          "Worked with both SQL (MySQL) and MongoDB databases for different project requirements",
+          "Collaborated with team using Git for version control and code collaboration",
+          "Created responsive UI components using HTML5, CSS3, and modern JavaScript (ES6+)",
+          "Participated in code reviews and followed agile development methodologies"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "project": "E-Commerce Website",
+        "date": "March 2024 - May 2024",
+        "descriptions": [
+          "Built full-stack e-commerce platform using React frontend and Node.js/Express backend",
+          "Implemented user authentication, product catalog, shopping cart, and payment integration",
+          "Used MongoDB for product data and user management",
+          "Created responsive design using CSS Grid and Flexbox",
+          "Implemented REST APIs for all CRUD operations"
+        ],
+        "industry": "E-commerce",
+        "domain": "Web Development"
+      },
+      {
+        "project": "Task Management System",
+        "date": "January 2024 - February 2024",
+        "descriptions": [
+          "Developed task tracking application with React frontend and Express.js backend",
+          "Integrated SQL database (PostgreSQL) for data persistence",
+          "Implemented real-time updates using WebSocket connections",
+          "Used Git for version control and deployed on cloud platform"
+        ],
+        "industry": "Productivity",
+        "domain": "Web Application"
+      }
+    ],
+    "skills": {
+      "technical": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express.js",
+        "SQL",
+        "MongoDB",
+        "Git",
+        "REST APIs",
+        "MySQL",
+        "PostgreSQL",
+        "Responsive Design",
+        "CSS Grid",
+        "Flexbox",
+        "ES6+",
+        "WebSocket",
+        "JSON",
+        "AJAX"
+      ],
+      "languages": [
+        "JavaScript",
+        "Python",
+        "SQL"
+      ],
+      "other": [
+        "Agile Methodology",
+        "Code Review",
+        "Problem Solving",
+        "Team Collaboration",
+        "Version Control",
+        "Database Design",
+        "API Design",
+        "Testing",
+        "Debugging"
+      ]
+    },
+    "custom": {
+      "descriptions": []
+    }
+  }
+} 

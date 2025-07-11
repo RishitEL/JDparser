@@ -1,0 +1,98 @@
+{
+  "filename": "edge_case_fresh_graduate.pdf",
+  "parsed_data": {
+    "profile": {
+      "name": "Priya Fresher",
+      "email": "priya.fresher@email.com",
+      "phone": "9876543212",
+      "location": "Trivandrum, Kerala",
+      "url": "https://github.com/priyafresher",
+      "summary": "Recent Computer Science Engineering graduate with strong foundation in web development technologies. Passionate about creating user-friendly applications and eager to contribute to a dynamic development team."
+    },
+    "educations": [
+      {
+        "school": "College of Engineering Trivandrum",
+        "degree": "Bachelor of Technology in Computer Science Engineering",
+        "gpa": "8.2/10",
+        "date": "July 2020 - June 2024",
+        "descriptions": [
+          "Relevant Coursework: Web Programming, Database Management, Software Engineering, Computer Networks",
+          "Final Year Project: E-commerce Website using React and Node.js (Grade: A+)"
+        ]
+      }
+    ],
+    "workExperiences": [],
+    "projects": [
+      {
+        "project": "Personal Portfolio Website",
+        "date": "April 2024 - May 2024",
+        "descriptions": [
+          "Built responsive personal portfolio using HTML5, CSS3, and vanilla JavaScript",
+          "Implemented smooth animations and mobile-first design approach",
+          "Deployed website using Git version control and GitHub Pages",
+          "Featured projects showcase and contact form functionality"
+        ],
+        "industry": "Personal",
+        "domain": "Web Development"
+      },
+      {
+        "project": "College Library Management System",
+        "date": "February 2024 - March 2024",
+        "descriptions": [
+          "Developed web application using React for frontend and basic Node.js for backend",
+          "Created simple REST API endpoints for book management operations",
+          "Used JSON files for data storage (no database integration yet)",
+          "Implemented basic search and filter functionality for book catalog"
+        ],
+        "industry": "Education",
+        "domain": "Library Management"
+      },
+      {
+        "project": "To-Do List Application",
+        "date": "January 2024 - January 2024",
+        "descriptions": [
+          "Created simple task management app using HTML, CSS, and JavaScript",
+          "Implemented local storage for data persistence",
+          "Added basic CRUD operations for tasks",
+          "Responsive design for mobile and desktop users"
+        ],
+        "industry": "Productivity",
+        "domain": "Task Management"
+      }
+    ],
+    "skills": {
+      "technical": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Git",
+        "JSON",
+        "Responsive Design",
+        "Local Storage",
+        "GitHub Pages",
+        "Bootstrap",
+        "jQuery"
+      ],
+      "languages": [
+        "JavaScript",
+        "C",
+        "Java",
+        "Python"
+      ],
+      "other": [
+        "Problem Solving",
+        "Quick Learner",
+        "Team Player",
+        "Time Management",
+        "Attention to Detail",
+        "Self-Motivated",
+        "Communication Skills"
+      ]
+    },
+    "custom": {
+      "descriptions": []
+    }
+  }
+} 

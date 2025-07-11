@@ -1,0 +1,135 @@
+{
+  "filename": "edge_case_overqualified.pdf",
+  "parsed_data": {
+    "profile": {
+      "name": "Sarah Senior",
+      "email": "sarah.senior@email.com",
+      "phone": "9876543211",
+      "location": "Mumbai, Maharashtra",
+      "url": "https://github.com/sarahsenior",
+      "summary": "Senior Full Stack Developer with 8+ years of experience in enterprise web applications, microservices architecture, and cloud technologies. Led multiple teams and delivered scalable solutions for Fortune 500 companies."
+    },
+    "educations": [
+      {
+        "school": "IIT Bombay",
+        "degree": "Master of Technology in Computer Science",
+        "gpa": "9.2/10",
+        "date": "July 2014 - June 2016",
+        "descriptions": [
+          "Specialization: Software Engineering and Distributed Systems"
+        ]
+      },
+      {
+        "school": "NIT Calicut",
+        "degree": "Bachelor of Technology in Computer Science",
+        "gpa": "8.8/10",
+        "date": "July 2010 - June 2014",
+        "descriptions": []
+      }
+    ],
+    "workExperiences": [
+      {
+        "company": "Google India",
+        "jobTitle": "Senior Software Engineer",
+        "date": "March 2020 - Present",
+        "descriptions": [
+          "Led development of large-scale web applications serving 10M+ users using React, Node.js, and microservices",
+          "Architected and implemented cloud-native solutions on Google Cloud Platform",
+          "Mentored junior developers and conducted technical interviews",
+          "Designed RESTful and GraphQL APIs with high availability and performance",
+          "Implemented CI/CD pipelines and automated testing frameworks"
+        ]
+      },
+      {
+        "company": "Microsoft India",
+        "jobTitle": "Software Engineer II",
+        "date": "July 2016 - February 2020",
+        "descriptions": [
+          "Developed enterprise web applications using React, TypeScript, and .NET Core",
+          "Worked with SQL Server, MongoDB, and Redis for data management",
+          "Implemented OAuth2 authentication and authorization systems",
+          "Collaborated using Git, Azure DevOps, and Agile methodologies"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "project": "E-Learning Platform (100K+ Users)",
+        "date": "January 2023 - December 2023",
+        "descriptions": [
+          "Architected microservices-based e-learning platform using React, Node.js, Express.js",
+          "Implemented real-time video streaming and chat functionality",
+          "Used MongoDB for user data and PostgreSQL for course analytics",
+          "Deployed on Kubernetes with auto-scaling capabilities"
+        ],
+        "industry": "Education",
+        "domain": "E-Learning"
+      },
+      {
+        "project": "Banking Dashboard System",
+        "date": "June 2021 - November 2021",
+        "descriptions": [
+          "Built secure banking dashboard with React frontend and Node.js backend",
+          "Implemented complex SQL queries for financial reporting",
+          "Created REST APIs with strict security and compliance requirements",
+          "Used Git for version control with enterprise branching strategies"
+        ],
+        "industry": "Finance",
+        "domain": "Banking"
+      }
+    ],
+    "skills": {
+      "technical": [
+        "React",
+        "Node.js",
+        "Express.js",
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "SQL",
+        "MongoDB",
+        "PostgreSQL",
+        "Git",
+        "REST APIs",
+        "GraphQL",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Google Cloud Platform",
+        "Microservices",
+        "Redis",
+        "Elasticsearch",
+        "Jest",
+        "Cypress",
+        "CI/CD",
+        "OAuth2",
+        "JWT"
+      ],
+      "languages": [
+        "JavaScript",
+        "TypeScript",
+        "Python",
+        "Java",
+        "C#",
+        "SQL"
+      ],
+      "other": [
+        "System Design",
+        "Architecture",
+        "Team Leadership",
+        "Mentoring",
+        "Code Review",
+        "Performance Optimization",
+        "Security",
+        "Scalability",
+        "Cloud Architecture",
+        "DevOps",
+        "Agile/Scrum"
+      ]
+    },
+    "custom": {
+      "descriptions": []
+    }
+  }
+} 

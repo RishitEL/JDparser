@@ -1,0 +1,147 @@
+{
+  "filename": "Sumona_Banerjee_9395177039_Btech 1.pdf",
+  "parsed_data": {
+    "profile": {
+      "name": "SUMONA BANERJEE",
+      "email": "sumonabanerjee117@gmail.com",
+      "phone": "9395177039",
+      "location": "",
+      "url": "http://www.linkedin.com/in/sumona-banerjee-9b2405285",
+      "summary": ""
+    },
+    "educations": [
+      {
+        "school": "University of Engineering and Management, Jaipur",
+        "degree": "B.Tech. in Computer Science and Engineering (A.I.M.L)-CGPA: 7.6",
+        "gpa": "",
+        "date": "2021\u20132025",
+        "descriptions": []
+      },
+      {
+        "school": "",
+        "degree": "",
+        "gpa": "",
+        "date": "2020\u20132021",
+        "descriptions": []
+      }
+    ],
+    "workExperiences": [
+      {
+        "company": "Requin Solutions Private Ltd.",
+        "jobTitle": "",
+        "date": "",
+        "descriptions": []
+      },
+      {
+        "company": "Dec, 2023\u2013Jun, 2024",
+        "jobTitle": "Technical Researcher Intern",
+        "date": "",
+        "descriptions": []
+      },
+      {
+        "company": "Application Development",
+        "jobTitle": "",
+        "date": "",
+        "descriptions": [
+          "\uf0b7 Project Management Planning: Developed Gantt charts and time schedules, facilitated sprint reviews,",
+          "and applied lean canvas principles.",
+          "\uf0b7 AI Research: Conducted strategic research on AI implementation and addressed compliance and safety",
+          "concerns."
+        ]
+      },
+      {
+        "company": "Jul, 2024\u2013Jan, 2025",
+        "jobTitle": "Python Developer",
+        "date": "",
+        "descriptions": []
+      },
+      {
+        "company": "Python Development: Built multiple models tailored to client requirements with a focus on efficiency",
+        "jobTitle": "",
+        "date": "",
+        "descriptions": [
+          "\uf0b7 Code Debugging: Identified and resolved critical defects and vulnerabilities in code, enhancing software",
+          "stability and security."
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "project": "Hostel Incident Management System",
+        "date": "",
+        "descriptions": [
+          "Designed a workflow for incident creation, approval and fine payment tracking."
+        ],
+        "industry": "IT",
+        "domain": "Incident Management System"
+      },
+      {
+        "project": "Audiobook Creation",
+        "date": "",
+        "descriptions": [
+          "\uf0b7 Developed a Pythonscript to convert PDFs into audiobooks using text-to-speech."
+        ],
+        "industry": "IT",
+        "domain": "Audiobook Creation"
+      },
+      {
+        "project": "TechHub (Front-End Prototype)",
+        "date": "",
+        "descriptions": [
+          "\uf0b7 Built UI using HTML, CSS, JavaScript, and PHP for a developer community hub."
+        ],
+        "industry": "IT",
+        "domain": "Developer Community Hub"
+      },
+      {
+        "project": "Human Detection (OpenCV)",
+        "date": "",
+        "descriptions": [
+          "\uf0b7 Implemented real-time face detection tool using OpenCV."
+        ],
+        "industry": "IT",
+        "domain": "Computer Vision"
+      },
+      {
+        "project": "Face Attendance System",
+        "date": "",
+        "descriptions": [
+          "\uf0b7 An automated attendance system that leverages facial recognition technology."
+        ],
+        "industry": "IT",
+        "domain": "Facial Recognition"
+      }
+    ],
+    "skills": {
+      "technical": [
+        "CSS",
+        "HTML",
+        "JavaScript",
+        "OpenCV",
+        "PHP",
+        "Python"
+      ],
+      "languages": [],
+      "other": [
+        "AI research",
+        "Code Debugging",
+        "Data Analysis",
+        "Documentation",
+        "Gantt charts",
+        "Literature Review",
+        "PDF",
+        "Research",
+        "compliance",
+        "facial recognition technology",
+        "lean canvas",
+        "safety",
+        "sprint reviews",
+        "text-to-speech",
+        "workflow design"
+      ]
+    },
+    "custom": {
+      "descriptions": []
+    }
+  }
+}

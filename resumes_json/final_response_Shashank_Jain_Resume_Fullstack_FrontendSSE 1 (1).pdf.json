@@ -1,0 +1,95 @@
+{
+  "filename": "Shashank_Jain_Resume_Fullstack_FrontendSSE 1 (1).pdf",
+  "parsed_data": {
+    "profile": {
+      "name": "Shashank",
+      "email": "shashank.jain2605@gmail.com",
+      "phone": "8094002323",
+      "location": "",
+      "url": "",
+      "summary": "FrontendEngineerwith3+yearsofprofessionalexperience. Proficientindevelopingscalable, performant, secured, and well-documented web applications utilizing modern web frameworks. Experienced in Agile software development methodologies and Test Driven Development. Worked with multiple global teams on varying tech stack."
+    },
+    "educations": [
+      {
+        "school": "",
+        "degree": "",
+        "gpa": "",
+        "date": "2016-2020",
+        "descriptions": []
+      },
+      {
+        "school": "",
+        "degree": "BachelorofTechnology",
+        "gpa": "",
+        "date": "",
+        "descriptions": []
+      }
+    ],
+    "workExperiences": [
+      {
+        "company": "Allen Digital (Recro)",
+        "jobTitle": "",
+        "date": "May2024\u2013Present",
+        "descriptions": [
+          "Led the adoption of next genNextJSframework across frontend teams, customizing it to meet company standards includingUserResource Management and Customer Resource Management",
+          "Spearheaded the design and implementation of an in-house schedule management solution facilitating scheduling, listing, and clash checks for over10,000weekly classes."
+        ]
+      },
+      {
+        "company": "CODVO.AI",
+        "jobTitle": "",
+        "date": "Feb2022\u2013April 2024",
+        "descriptions": [
+          "Spearheaded the creation of UI elements with React, NodeJS, Redux, TypeScript, and GraphQL, elevating codecoveragefrom30%to70%;pivotalintransformingmaintenanceworkflows, reducingdowntime, and delivering impactful cost reductions.",
+          "Orchestrated theadoptionofaMicroFrontendarchitecturebyintegratingReact, React-Query, Redux, and Storybook, resulting in a 40% reduction in frontend development time and30%increase in frontend performance.",
+          "Enhanced website performance by40%through leading the code optimization and refactoring efforts, introducinginnovativecode-splittingandimageoptimizationtechniquesthatsignificantlyimprovedspeed and efficiency.",
+          "Engineeredarobustdatamodelspipeline, streamliningtransformationof10K+CSVdataentriesintodynamic charts, models, and custom tables;leveragedHighchartsandD3.jsto create engaging visual representations.",
+          "EnhancedperformanceoftheClientwebportalby700%, decreasingloadtimefrom42secto6sec."
+        ]
+      },
+      {
+        "company": "TCS",
+        "jobTitle": "",
+        "date": "Jan2021\u2013Feb2022",
+        "descriptions": [
+          "Implementedamobile-firststrategyfor3existingwebsites, creatingmodular, responsivetemplatesin adherencetoADAguidelines;reducedbounceratesby40%andincreasedmobileconversionsby25%",
+          "Engineeredandimplementedasuiteof20+reusableUIcomponentsusingReactJs, resultingina40%decrease in development time and a25%increase in frontend productivity.",
+          "Led cross-functional teams in executing client projects, ensuring100% on-time deliveryand budget adherence;increasedcustomersatisfactionscoresby20%andgenerated$1Minadditionalrevenue."
+        ]
+      }
+    ],
+    "projects": [],
+    "skills": {
+      "technical": [
+        "D3.js.",
+        "GraphQL",
+        "MicroFrontend architecture",
+        "NextJS",
+        "NodeJS",
+        "React",
+        "React-Query",
+        "ReactJs",
+        "Redux",
+        "Storybook",
+        "TypeScript"
+      ],
+      "languages": [],
+      "other": [
+        "ADA guidelines",
+        "Customer Resource Management",
+        "Highcharts",
+        "User Resource Management",
+        "clash checks",
+        "code optimization",
+        "code-splitting",
+        "image optimization",
+        "listing",
+        "refactoring",
+        "schedule management"
+      ]
+    },
+    "custom": {
+      "descriptions": []
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "filename": "edge_case_no_match.pdf",
+  "parsed_data": {
+    "profile": {
+      "name": "Anjali Mismatch",
+      "email": "anjali.mismatch@email.com",
+      "phone": "9876543214",
+      "location": "Bangalore, Karnataka",
+      "url": "https://github.com/anjalimismatch",
+      "summary": "Data Scientist and Machine Learning Engineer with 2 years of experience in Python, R, and statistical analysis. Specialized in deep learning, computer vision, and building predictive models for business insights."
+    },
+    "educations": [
+      {
+        "school": "Indian Institute of Science",
+        "degree": "Master of Science in Data Science",
+        "gpa": "8.9/10",
+        "date": "July 2022 - June 2024",
+        "descriptions": [
+          "Relevant Coursework: Machine Learning, Deep Learning, Statistical Computing, Data Visualization"
+        ]
+      },
+      {
+        "school": "University of Delhi",
+        "degree": "Bachelor of Science in Mathematics",
+        "gpa": "8.1/10",
+        "date": "July 2019 - June 2022",
+        "descriptions": [
+          "Major in Applied Mathematics with focus on Statistics and Probability"
+        ]
+      }
+    ],
+    "workExperiences": [
+      {
+        "company": "Analytics Corp",
+        "jobTitle": "Data Scientist",
+        "date": "July 2024 - Present",
+        "descriptions": [
+          "Developed machine learning models using Python, scikit-learn, and TensorFlow",
+          "Built predictive analytics dashboard using Tableau and Power BI",
+          "Analyzed large datasets using pandas, NumPy, and Apache Spark",
+          "Created data pipelines using Apache Airflow and Docker containers",
+          "Collaborated with team using Jupyter notebooks and conda environments"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "project": "Customer Churn Prediction Model",
+        "date": "May 2024 - June 2024",
+        "descriptions": [
+          "Built machine learning model to predict customer churn using Random Forest and XGBoost",
+          "Processed and analyzed dataset of 100K+ customer records using pandas and NumPy",
+          "Achieved 89% accuracy in predicting customer retention patterns",
+          "Created data visualization dashboard using matplotlib and seaborn",
+          "Deployed model using Flask API for real-time predictions"
+        ],
+        "industry": "Retail",
+        "domain": "Customer Analytics"
+      },
+      {
+        "project": "Image Classification System",
+        "date": "March 2024 - April 2024",
+        "descriptions": [
+          "Developed CNN model for medical image classification using TensorFlow and Keras",
+          "Implemented data augmentation and transfer learning techniques",
+          "Achieved 94% accuracy on validation dataset using ResNet architecture",
+          "Used OpenCV for image preprocessing and data pipeline creation",
+          "Documented model performance using MLflow and experiment tracking"
+        ],
+        "industry": "Healthcare",
+        "domain": "Medical Imaging"
+      }
+    ],
+    "skills": {
+      "technical": [
+        "Python",
+        "R",
+        "TensorFlow",
+        "PyTorch",
+        "scikit-learn",
+        "pandas",
+        "NumPy",
+        "matplotlib",
+        "seaborn",
+        "Jupyter",
+        "Apache Spark",
+        "Apache Airflow",
+        "Docker",
+        "Kubernetes",
+        "Tableau",
+        "Power BI",
+        "MLflow",
+        "OpenCV",
+        "Keras",
+        "XGBoost",
+        "Flask"
+      ],
+      "languages": [
+        "Python",
+        "R",
+        "SQL",
+        "Scala",
+        "Java"
+      ],
+      "other": [
+        "Machine Learning",
+        "Deep Learning",
+        "Statistical Analysis",
+        "Data Visualization",
+        "Predictive Modeling",
+        "Computer Vision",
+        "Natural Language Processing",
+        "Big Data Analytics",
+        "A/B Testing",
+        "Research",
+        "Technical Writing"
+      ]
+    },
+    "custom": {
+      "descriptions": []
+    }
+  }
+} 

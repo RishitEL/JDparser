@@ -1,0 +1,130 @@
+{
+  "filename": "ZahidReactNode1 (1) (1) (1).pdf",
+  "parsed_data": {
+    "profile": {
+      "name": "Mohammed Zahid Qureshi",
+      "email": "zahidqureshi21@gmail.com",
+      "phone": "8058333032",
+      "location": "",
+      "url": "https://www.linkedin.com/in/zahid-qureshi-634926156",
+      "summary": "DOB: 22 July 1993"
+    },
+    "educations": [
+      {
+        "school": "Jaipur National University, Rajasthan, India",
+        "degree": "BCA",
+        "gpa": "70",
+        "date": "70% 2015\u2013 2018",
+        "descriptions": []
+      }
+    ],
+    "workExperiences": [
+      {
+        "company": "Telepathy Infotech Pvt.Ltd.",
+        "jobTitle": "Sr.Software Developer (Mern)",
+        "date": "June 2024- Till Date",
+        "descriptions": [
+          "software solutions, digital products, etc.]",
+          "\uf0b7 Make Real state crm is In house Product Clean Code and Using Miscrosevices"
+        ]
+      },
+      {
+        "company": "Reva consultant llp . India",
+        "jobTitle": "Sr.Software Developer (Mern)",
+        "date": "Aug 2023- April 2024",
+        "descriptions": [
+          "capabilities.",
+          "\uf0b7 Set up the project starting from team building, client requirements identification, project architecture, DB",
+          "schema design and much more",
+          "JPloft Pvt. Ltd., India Sr.Software Developer (Mern) March 2023 \u2013 May 2023",
+          "\uf0b7 Guided to team in developing a system to meet the business requirement.",
+          "\uf0b7 Developed events management project."
+        ]
+      },
+      {
+        "company": "Technoloader Pvt. Ltd., India",
+        "jobTitle": "",
+        "date": "February 2021 \u2013 August 2022",
+        "descriptions": [
+          "\uf0b7 Responsible for dynamic & responsive websites like Crypto Currency, paxful, binance in functionalities P2p Projects.",
+          "\uf0b7 Developed multiple Crypto project in p2p functionalities.",
+          "\uf0b7",
+          "Optisoft Pvt. Ltd., India Software Developer (Php and Mern) Oct 2019 \u2013January 2021",
+          "\uf0b7 Responsible for dynamic & responsive websites Advocate management and agribolo for agriculture."
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "project": "Homelead: https://telepathy.homelead.in/login",
+        "date": "",
+        "descriptions": [
+          "Management, Document & Financial Management, Reports & Analytics, Services & Staff Management."
+        ],
+        "industry": "Unknown",
+        "domain": "Unknown"
+      },
+      {
+        "project": "Flite City",
+        "date": "",
+        "descriptions": [
+          "\uf0b7 Created an API and integrated it with Make for smooth data flow and multilingual functionality",
+          "\uf0b7 Developed a full-stack event management platform with role-based access for Admin, Promoter, and Attendee using React.js",
+          "and Node.js .",
+          "\uf0b7",
+          "\uf0b7",
+          "Techno Exchange: https://inoutbit.com/",
+          "\uf0b7",
+          "\uf0b7 The Exchange P2P Platform project aims to develop a robust and efficient online platform for exchanging various digital assets,",
+          "such as crypto currencies, tokens, or other digital commodities. .",
+          "\uf0b7 Contributed as a Senior developer to the frontend development of a cryptocurrency exchange project \uf0b7 Played a pivotal role in handling buy/sell functionalities, managing real-time data display through Socket API.",
+          "\uf0b7 KYC Integration for Aadhaar and PAN card verifications..",
+          "\uf0b7 My role used to be that I used to get the design ready and I used to convert it into React and create backend or apis or",
+          "admin frontend dynamic and functionalities.",
+          "Techno P2P:",
+          "\uf0b7 In P2P we can create offers, create market rate per cent or even create fixed prices.",
+          "\uf0b7 You can sell, buy, upload receipt of payment and the offer will be frozen, if you accept the amount of coin will be deducted or",
+          "transferred, you can also raise dispute ticket."
+        ],
+        "industry": "IT",
+        "domain": "Cryptocurrency Exchange Platform"
+      }
+    ],
+    "skills": {
+      "technical": [
+        "API integration",
+        "Aadhaar verification",
+        "Cryptocurrency exchange",
+        "DB schema design",
+        "Frontend development",
+        "KYC integration",
+        "MERN stack",
+        "Mern",
+        "Microservices",
+        "Node.js",
+        "PAN card verification",
+        "Php",
+        "React.js",
+        "Real-time data display",
+        "Socket API"
+      ],
+      "languages": [],
+      "other": [
+        "Clean Code",
+        "Dispute resolution",
+        "Fixed prices",
+        "Market rate",
+        "Offer creation",
+        "P2P platform",
+        "Role-based access",
+        "client requirements identification",
+        "events management project",
+        "project architecture",
+        "team building"
+      ]
+    },
+    "custom": {
+      "descriptions": []
+    }
+  }
+}

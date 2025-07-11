@@ -1,0 +1,105 @@
+{
+  "filename": "edge_case_partial_match.pdf",
+  "parsed_data": {
+    "profile": {
+      "name": "Rahul Partial",
+      "email": "rahul.partial@email.com",
+      "phone": "9876543213",
+      "location": "Kochi, Kerala",
+      "url": "https://github.com/rahulpartial",
+      "summary": "Web developer with 6 months experience in frontend development using Angular and Vue.js. Strong foundation in HTML, CSS, and JavaScript with some backend exposure using PHP and MySQL."
+    },
+    "educations": [
+      {
+        "school": "Cochin University of Science and Technology",
+        "degree": "Bachelor of Computer Applications",
+        "gpa": "7.8/10",
+        "date": "June 2021 - May 2024",
+        "descriptions": [
+          "Relevant Coursework: Web Design, Programming in C++, Database Concepts, Computer Networks"
+        ]
+      }
+    ],
+    "workExperiences": [
+      {
+        "company": "LocalWeb Solutions",
+        "jobTitle": "Frontend Developer Intern",
+        "date": "January 2024 - June 2024",
+        "descriptions": [
+          "Developed user interfaces using Angular 15 and Bootstrap for responsive design",
+          "Created interactive web pages with HTML5, CSS3, and modern JavaScript",
+          "Worked with PHP backend for basic API integration and data fetching",
+          "Used MySQL database for simple CRUD operations",
+          "Collaborated with team using basic Git commands for version control"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "project": "Restaurant Website",
+        "date": "November 2023 - December 2023",
+        "descriptions": [
+          "Built restaurant website using Angular frontend with attractive UI design",
+          "Implemented menu display, contact forms using HTML and CSS",
+          "Added basic JavaScript functionality for image carousel and form validation",
+          "Connected to PHP backend for contact form submission",
+          "Used MySQL to store customer inquiries and feedback"
+        ],
+        "industry": "Food & Beverage",
+        "domain": "Restaurant Website"
+      },
+      {
+        "project": "Student Portal",
+        "date": "September 2023 - October 2023",
+        "descriptions": [
+          "Created student information portal using Vue.js framework",
+          "Designed responsive layouts with CSS Flexbox and Grid",
+          "Implemented basic authentication using localStorage",
+          "Connected to REST APIs for student data retrieval",
+          "Used Git for version control during development"
+        ],
+        "industry": "Education",
+        "domain": "Student Management"
+      }
+    ],
+    "skills": {
+      "technical": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Angular",
+        "Vue.js",
+        "PHP",
+        "MySQL",
+        "Git",
+        "Bootstrap",
+        "jQuery",
+        "REST APIs",
+        "Responsive Design",
+        "CSS Flexbox",
+        "CSS Grid",
+        "JSON",
+        "AJAX"
+      ],
+      "languages": [
+        "JavaScript",
+        "PHP",
+        "SQL",
+        "C++",
+        "Java"
+      ],
+      "other": [
+        "Web Design",
+        "UI/UX Principles",
+        "Problem Solving",
+        "Team Collaboration",
+        "Learning Agility",
+        "Attention to Detail",
+        "Time Management"
+      ]
+    },
+    "custom": {
+      "descriptions": []
+    }
+  }
+} 
