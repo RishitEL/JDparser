@@ -1,0 +1,61 @@
+{
+    "basic_info": {
+      "job_role": "Full Stack Developer",
+      "location": "Trivandrum",
+      "employment_type": "Full-time",
+      "experience_required": "0–1 years",
+      "work_mode": "Hybrid"
+    },
+    "technical_skills": {
+      "primary_skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express.js"
+      ],
+      "secondary_skills": [
+        "SQL",
+        "MongoDB",
+        "Git",
+        "REST APIs"
+      ],
+      "skill_proficiency": {
+        "HTML": "80%",
+        "CSS": "80%",
+        "JavaScript": "75%",
+        "React": "70%",
+        "Node.js": "70%",
+        "Express.js": "60%",
+        "SQL": "50%",
+        "MongoDB": "50%",
+        "Git": "60%",
+        "REST APIs": "50%"
+      }
+    },
+    "key_responsibilities": [
+      "Assist in developing and maintaining web applications using React and Node.js.",
+      "Collaborate with senior developers to write clean, scalable code.",
+      "Implement responsive UI using HTML, CSS, and JavaScript.",
+      "Work with databases like SQL and MongoDB for CRUD operations.",
+      "Participate in code reviews, testing, and debugging.",
+      "Follow best practices for version control using Git.",
+      "Learn and adapt to new technologies as needed."
+    ],
+    "experience_requirements": {
+      "total_years": "0–1 years",
+      "technology_specific_experience": {
+        "Frontend Development (HTML, CSS, JavaScript)": "0–1 years",
+        "React.js": "0–1 years",
+        "Backend Development (Node.js, Express.js)": "0–1 years",
+        "Databases (SQL/MongoDB)": "0–1 years",
+        "Version Control (Git)": "0–1 years",
+        "API Development": "0–1 years",
+        "Unit Testing": "0–1 years",
+        "Agile Methodology": "0–1 years",
+        "Collaboration Tools (JIRA, GitHub)": "0–1 years"
+      }
+    }
+  }
+  

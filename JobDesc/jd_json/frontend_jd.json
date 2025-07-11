@@ -1,0 +1,68 @@
+{
+  "about_this_role": {
+    "applied_before": null,
+    "job_posted_on": "07/10/2025",
+    "job_type": "Contract",
+    "salary_range": null
+  },
+  "description": "This contract role requires a skilled Full Stack Developer with a strong focus on front-end development (70%) to join a team in Trivandrum immediately.  The candidate will be responsible for building and maintaining high-quality, scalable applications.  Experience with Angular, TypeScript, and related technologies is critical.  Backend responsibilities (30%) include Java, Spring Boot, and microservices.",
+  "responsibilities": [
+    "Develop and maintain front-end components using Angular, HTML, CSS, and TypeScript.",
+    "Design and implement user interfaces using Bootstrap and other UI frameworks.",
+    "Collaborate with backend developers to integrate front-end components with APIs and services.",
+    "Debug and troubleshoot front-end code and applications.",
+    "Develop, test, and implement front-end features using RXJS and NGRX.",
+    "Develop and maintain back-end components using Java, Spring Boot, and microservices architecture.",
+    "Design and implement cloud-native solutions utilizing GCP.",
+    "Deploy and release software using CI/CD pipelines, including Jenkins, Helm Charts, and Terraform.",
+    "Troubleshoot and resolve issues with cloud infrastructure.",
+    "Ensure applications meet quality standards with unit testing using Jasmine/Karma and automated testing tools.",
+    "Work within agile methodologies like Scrum and XP.",
+    "Effectively use Atlassian tools like JIRA, Confluence, and GitHub.",
+    "Work with relational databases (SQL Server, MySQL) and potentially other relevant database systems"
+  ],
+  "who_you_are": [
+    "A highly proficient Full Stack Developer with a minimum of 6+ years of experience in Angular.",
+    "Experienced in designing and developing cloud-native solutions using GCP or other Cloud providers.",
+    "A strong understanding of front-end technologies and frameworks, including Angular, HTML, CSS, TypeScript, and Bootstrap, with demonstrated expertise in applying these skills.",
+    "A skilled backend developer with experience in Java, Spring Boot, and microservices architectures.",
+    "Proven ability to write, debug, and troubleshoot complex code in multiple languages.",
+    "Expert in UI development using HTML, JavaScript, Angular and Bootstrap.",
+    "Proficient in using automated testing frameworks (Jasmine, Karma, JUnit, Selenium, etc.).",
+    "Experienced working in agile software development environments.",
+    "Comfortable utilizing Atlassian tools (JIRA, Confluence, GitHub).",
+    "Possessing a strong understanding of CI/CD pipelines and Infrastructure as Code (IaC) concepts."
+  ],
+  "nice_to_haves": [
+    "Experience with other front-end technologies, such as React or Vue.js.",
+    "Experience with AWS or Azure cloud technologies.",
+    "Familiarity with UI/UX design principles and practices.",
+    "Knowledge of various database technologies beyond relational databases.",
+    "Understanding of DevOps principles and practices.",
+    "Experience with LoadRunner or SoapUI.",
+    "Knowledge of more advanced Angular concepts and architectures (e.g. Ivy or Angular Universal).",
+    "Strong analytical and problem-solving skills for tackling complex technical challenges."
+  ],
+  "categories": [
+    "Software Engineering"
+  ],
+  "required_skills": [
+    "Angular",
+    "HTML",
+    "CSS",
+    "TypeScript",
+    "JavaScript",
+    "Bootstrap",
+    "RXJS",
+    "NGRX",
+    "Java",
+    "Spring Boot",
+    "Microservices",
+    "GCP",
+    "Unit Testing",
+    "Agile Development",
+    "CI/CD",
+    "Cloud Computing",
+    "Relational Databases"
+  ]
+}

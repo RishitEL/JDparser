@@ -1,0 +1,62 @@
+{
+  "basic_info": {
+    "job_role": "Full Stack Developer",
+    "location": "Trivandrum",
+    "employment_type": "Contract",
+    "experience_required": "6+ years",
+    "work_mode": ""
+  },
+  "technical_skills": {
+    "primary_skills": [
+      "Angular",
+      "HTML",
+      "CSS",
+      "Typescript",
+      "Javascript",
+      "Bootstrap",
+      "RXJS",
+      "NGRX"
+    ],
+    "secondary_skills": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "GCP"
+    ],
+    "skill_proficiency": {
+      "Angular 2+": "90%",
+      "HTML and CSS": "80%",
+      "Typescript": "80%",
+      "Javascript": "80%",
+      "Bootstrap": "80%",
+      "RXJS": "70%",
+      "NGRX": "60%",
+      "Java": "30%",
+      "Spring Boot": "30%",
+      "Microservices": "30%",
+      "GCP": "20%"
+    }
+  },
+  "key_responsibilities": [],
+  "experience_requirements": {
+    "total_years": "6+",
+    "technology_specific_experience": {
+      "Angular": "6+ years",
+      "Java": "6+ years",
+      "Spring Boot": "6+ years",
+      "Microservices": "6+ years",
+      "Cloud (AWS/GCP)": "6+ years",
+      "Front End Technology": "6+ years",
+      "UI development (HTML, JavaScript, Angular, Bootstrap)": "6+ years",
+      "Unit Testing (Jasmine/Karma)": "6+ years",
+      "Cloud technology (GCP, AWS, Azure)": "6+ years",
+      "Cloud-native solutions": "6+ years",
+      "Jenkins CI/CD pipelines": "6+ years",
+      "Infrastructure-as-code (Helm Charts, Terraform)": "6+ years",
+      "Relational databases (SQL Server, MySQL)": "6+ years",
+      "Automated Testing (JUnit, Selenium, LoadRunner, SoapUI)": "6+ years",
+      "Agile environments (Scrum, XP)": "6+ years",
+      "Atlassian tooling (JIRA, Confluence, Github)": "6+ years"
+    }
+  }
+}

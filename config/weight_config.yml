@@ -1,0 +1,13 @@
+weights:
+  skill_similarity: 0.60
+  exp_similarity: 0.30
+  education_match: 0.05
+  sentence_similarity: 0.05
+penalties:
+  lacking_years: -0.05  # per missing year of required experience
+education_hierarchy:
+  phd: 3
+  masters: 2
+  bachelors: 1
+  diploma: 0
+  none: 0 
