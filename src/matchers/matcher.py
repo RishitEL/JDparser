@@ -4,10 +4,10 @@ import numpy as np
 from typing import Dict, Any, List
 from tqdm import tqdm
 
-from embedding_utils import embed_texts, aggregate_mean
-from feature_extraction import jd_to_embed_payload, resume_to_embed_payload
-from experience_utils import estimate_years_experience, parse_required_years
-from education_utils import highest_degree, required_degree, meets_degree_requirement
+from src.utils.embedding_utils import embed_texts, aggregate_mean
+from src.extractors.feature_extraction import jd_to_embed_payload, resume_to_embed_payload
+from src.extractors.experience_utils import estimate_years_experience, parse_required_years
+from src.extractors.education_utils import highest_degree, required_degree, meets_degree_requirement
 from config.weight_loader import get_config
 
 

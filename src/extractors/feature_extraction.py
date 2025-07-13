@@ -63,27 +63,27 @@ def resume_to_embed_payload(resume: Dict[str, Any]) -> Dict[str, List[str]]:
     for key in ("technical", "other"):
         skill_texts.extend(skills.get(key, []))
     skill_texts = list({ _clean_skill(s).lower() for s in skill_texts if s })
-    print(skill_texts)
+    # print(skill_texts)
 
     # extract bullets from experiences
     exp_bullets: List[str] = []
     for exp in resume.get("workExperiences", []):
         exp_bullets.extend(exp.get("descriptions", []))
     exp_bullets = [_clean_text(b) for b in exp_bullets if b]
-    print(exp_bullets)
+    # print(exp_bullets)
 
     # project bullets
     proj_bullets: List[str] = []
     for proj in resume.get("projects", []):
         proj_bullets.extend(proj.get("descriptions", []))
     proj_bullets = [_clean_text(b) for b in proj_bullets if b]
-    print(proj_bullets)
+    # print(proj_bullets)
 
     summary_texts: List[str] = []
     profile = resume.get("profile", {})
     if profile.get("summary"):
         summary_texts.append(_clean_text(profile["summary"]))
-    print(summary_texts)
+    # print(summary_texts)
 
     return {
         "skill_texts": skill_texts,
